@@ -431,10 +431,10 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("https://source.unsplash.com/random?sky");
+		background-image: url("https://source.unsplash.com/random?");
 		background-size: 1.25rem;
 		background-repeat: no-repeat;
-		background-position: calc(100% - 1rem) center;
+		background-position: calc(100% - 1rem) wide;
 		height: 2.75rem;
 		padding-right: 2.75rem;
 		text-overflow: ellipsis;
